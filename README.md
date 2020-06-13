@@ -1,0 +1,2 @@
+# firebase-tierlist
+Firebase backend for my tierlist creator. I want to be able to call TVDB's API from my tierlist creator app without exposing my API key. Also their API doesn't support CORS. So I guess this will serve as a proxy for those API requests.
